@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * Created by Will on 7/16/2017.
+ * Cloned from repository Crospimoget/JavaGitPractice
  */
 public class starter {
 
@@ -9,6 +10,7 @@ public class starter {
 
         boolean flag = true;
         System.out.println("Git practice with Java.");
+        System.out.println("Git practice with JavaBranch.");
 
 
         while(flag) {
